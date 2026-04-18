@@ -1,0 +1,12 @@
+h1{
+	text-align: center;
+	font-family: arial;
+}
+button{
+	margin: 30px;
+	height: 100px;
+	width: 20%;
+}
+.menu{
+	margin: 15% auto;
+}
